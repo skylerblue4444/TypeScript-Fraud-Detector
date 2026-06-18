@@ -1,0 +1,1 @@
+# TypeScript-Fraud-Detector\n\n## Overview\nEnterprise-grade fraud detector implementation in TypeScript.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue4444/TypeScript-Fraud-Detector.git\ncd TypeScript-Fraud-Detector\n# Build instructions depend on the language\n```\n

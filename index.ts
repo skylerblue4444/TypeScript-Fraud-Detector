@@ -1,0 +1,1 @@
+console.log('Starting TypeScript-Fraud-Detector service...');\n
